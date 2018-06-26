@@ -24,5 +24,7 @@ to marks todo item as done/undone
 
 # **Technologies**
 - Node.js
-- MongoDb - DB Server
 - Express.js - Client Server
+- MongoDb - DB Server
+- Mongoose - Schema modeling
+
